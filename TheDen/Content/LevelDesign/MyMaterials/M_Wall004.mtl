@@ -1,0 +1,12 @@
+newmtl Wall004NEWUV_default
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd M_Wall004_BaseColor.tga
+map_Ks M_Wall004_Roughness.tga
+bump M_Wall004_Displacement.tga
+map_bump M_Wall004_Normal.tga
